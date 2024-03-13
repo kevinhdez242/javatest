@@ -1,10 +1,4 @@
-# Test Plan for BalancedBrackets Class
-
-## Objective
-The objective of this test plan is to ensure that the `BalancedBrackets` class functions correctly according to the specified requirements.
-
-## Test Cases
-
+# Test Plan
 1. **Only Brackets Return True**
     - Input: `[]`
     - Expected Output: `true`
@@ -59,6 +53,3 @@ The objective of this test plan is to ensure that the `BalancedBrackets` class f
     - Input: `[())]`
     - Expected Output: `true`
     - Description: Test that the method returns `true` even if there are unbalanced parentheses.
-
-## Conclusion
-The test plan covers a wide range of scenarios to ensure that the `BalancedBrackets` class functions correctly under various conditions.
